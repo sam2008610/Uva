@@ -10,7 +10,7 @@ int father[N];
 int find(int p)
 {
     return p==father[p]?p:father[p]=find(father[p]);
-}
+}//往上找
 int main()
 {
     int a,b,casecount=0;
