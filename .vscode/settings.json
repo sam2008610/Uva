@@ -35,5 +35,6 @@
         "array": "cpp",
         "initializer_list": "cpp",
         "utility": "cpp"
-    }
+    },
+    "files.defaultLanguage": "cpp", // ctrl+N新建文件后默认的语言
 }
