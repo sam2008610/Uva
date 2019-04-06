@@ -4,6 +4,5 @@ using namespace std;
 
 int main(void)
 {
-    cout << "" << endl;
-    
+    cout << "123" << endl;
 }
