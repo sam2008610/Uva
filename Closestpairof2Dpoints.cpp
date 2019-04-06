@@ -15,10 +15,10 @@ int main()
     int cases;
     cin >> cases;
     corrd mycorrd[2000];
-    while(cases--)
+    while (cases--)
     {
         int n;
-        for (int i = 0; i < n;i++)
+        for (int i = 0; i < n; i++)
         {
             cin >> mycorrd[i].x >> corrd[i].y;
         }
